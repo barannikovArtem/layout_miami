@@ -1,9 +1,0 @@
-.logo {
-  &__img {
-    height: 38px;
-    
-    @include onTabs {
-      height: 56px;
-    }
-  }
-}
